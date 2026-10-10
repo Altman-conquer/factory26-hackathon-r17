@@ -12,6 +12,8 @@ This repository contains the exact agent harness uploaded for the Factory26 Hack
 
 The uploaded archive contained only the files under `submission/`. The harness starts from the platform's initial template and uses the platform-provided requirements at runtime. No API keys, session cookies, evaluator data, or local run logs are included here.
 
+The `generated-apps/` directory contains the application source snapshots produced by the two official r17 runs. Runtime databases, build output, and platform workspace metadata are excluded.
+
 ## Official results
 
 | Task | Run | Result | Cost |
